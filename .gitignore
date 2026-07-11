@@ -1,0 +1,11 @@
+# Compiled binaries
+task1/frontend
+task1/backend
+task2/sandbox
+task2/test_binary
+
+# Object files
+*.o
+
+# Build artifacts
+*.out
