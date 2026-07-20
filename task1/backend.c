@@ -78,7 +78,7 @@ int main() {
         exit(1);
     }
 
-    chmod(SOCKET_PATH, 0600);
+    chmod(SOCKET_PATH, 0666);
 
     if (listen(server_sock, 5) < 0) {
         perror("listen");
