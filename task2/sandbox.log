@@ -1,0 +1,43 @@
+[Sandbox] Starting concurrent monitoring threads
+[ResourceMonitor] VmSize:	    2580 kB
+[ResourceMonitor] VmRSS:	    1492 kB
+[TimeMonitor] Elapsed: 1 seconds / 10 seconds limit
+[StatusMonitor] Child PID 5867 is still running
+[ResourceMonitor] VmSize:	    2580 kB
+[ResourceMonitor] VmRSS:	    1492 kB
+[TimeMonitor] Elapsed: 2 seconds / 10 seconds limit
+[ResourceMonitor] VmSize:	    2580 kB
+[ResourceMonitor] VmRSS:	    1492 kB
+[TimeMonitor] Elapsed: 3 seconds / 10 seconds limit
+[StatusMonitor] Child PID 5867 is still running
+[ResourceMonitor] VmSize:	    2580 kB
+[ResourceMonitor] VmRSS:	    1492 kB
+[TimeMonitor] Elapsed: 4 seconds / 10 seconds limit
+[ResourceMonitor] VmSize:	    2580 kB
+[ResourceMonitor] VmRSS:	    1492 kB
+[TimeMonitor] Elapsed: 5 seconds / 10 seconds limit
+[StatusMonitor] Child PID 5867 is still running
+[ResourceMonitor] VmSize:	    2580 kB
+[ResourceMonitor] VmRSS:	    1492 kB
+[TimeMonitor] Elapsed: 6 seconds / 10 seconds limit
+[TimeMonitor] Elapsed: 7 seconds / 10 seconds limit
+[ResourceMonitor] VmSize:	    2580 kB
+[ResourceMonitor] VmRSS:	    1492 kB
+[StatusMonitor] Child PID 5867 is still running
+[TimeMonitor] Elapsed: 8 seconds / 10 seconds limit
+[ResourceMonitor] VmSize:	    2580 kB
+[ResourceMonitor] VmRSS:	    1492 kB
+[TimeMonitor] Elapsed: 9 seconds / 10 seconds limit
+[ResourceMonitor] VmSize:	    2580 kB
+[ResourceMonitor] VmRSS:	    1492 kB
+[Sandbox] TIME LIMIT EXCEEDED (10 seconds) - Killing PID: 5867
+[Sandbox] Total execution time: 10.002 seconds
+[Sandbox] Child killed by signal: 9 (SIGKILL - Time limit enforced)
+[StatusMonitor] Child process no longer exists
+[StatusMonitor] Thread exiting
+[TimeMonitor] Elapsed: 10 seconds / 10 seconds limit
+[TimeMonitor] Time limit reached - signaling termination
+[TimeMonitor] Thread exiting
+[ResourceMonitor] Thread exiting
+[Sandbox] All monitoring threads stopped
+[Sandbox] Sandbox session complete
